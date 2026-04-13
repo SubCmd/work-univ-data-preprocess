@@ -22,3 +22,4 @@ build/
 # Data folders
 /data/raw/
 /data/preprocessed/
+/data/preprocessed_2/
